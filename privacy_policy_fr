@@ -1,0 +1,30 @@
+Règles de confidentialité – PDF Agenda
+
+1. Collecte et utilisation des données
+
+L’extension PDF Agenda ne collecte, ne stocke, ni ne transmet aucune information personnelle identifiable (comme votre nom, adresse e-mail ou numéro de téléphone) sans votre consentement explicite.
+
+Certaines fonctionnalités de PDF Agenda nécessitent l’accès à des données visibles sur la page web que vous consultez (par exemple : texte, images, vidéos, sons ou liens hypertexte). Ces données sont utilisées uniquement localement, dans votre navigateur, pour permettre la génération de fichiers PDF ou l’affichage d’éléments liés à l’extension. Aucune donnée n’est envoyée à des serveurs externes ni partagée avec des tiers.
+
+2. Interaction avec le contenu des sites web
+
+PDF Agenda peut interagir avec le contenu visible sur certaines pages web (notamment Google Agenda), ce qui inclut :
+le texte affiché (titre, description, lieux, etc.),
+les images, vidéos ou fichiers sonores,
+les liens hypertexte.
+
+Ces éléments sont uniquement utilisés dans le cadre des fonctionnalités de l’extension (par exemple : extraire les détails d’un événement pour générer un fichier PDF personnalisé). PDF Agenda ne modifie pas les contenus de manière permanente et ne perturbe pas le fonctionnement normal des sites visités.
+
+L’extension ne revendique aucun droit sur les contenus traités. Les droits d’auteur, logos, marques et autres éléments restent la propriété exclusive de leurs détenteurs respectifs.
+
+3. Permissions requises
+
+PDF Agenda peut demander certaines autorisations (comme l’accès au contenu des onglets) afin de pouvoir extraire les données nécessaires à son fonctionnement. Ces permissions sont strictement limitées à l’usage prévu par l’extension et ne sont pas exploitées à d'autres fins.
+
+4. Sécurité et confidentialité
+
+Toutes les données traitées par PDF Agenda le sont localement, dans votre navigateur. Aucun transfert de données personnelles ou sensibles vers des serveurs tiers n’est effectué. Cela garantit que vos informations restent confidentielles et sous votre contrôle.
+
+5. Modifications de la politique de confidentialité
+
+La présente politique peut être mise à jour à tout moment pour refléter les évolutions de l’extension ou des exigences légales. En cas de modification, la nouvelle version sera publiée sur la fiche de l’extension sur le Chrome Web Store avec la date de mise à jour.
